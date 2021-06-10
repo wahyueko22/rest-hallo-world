@@ -11,6 +11,7 @@ public class RestControllerWolrd {
 
     @RequestMapping(method = RequestMethod.GET, produces = {MediaType.APPLICATION_JSON_VALUE})
     public String index() {
+    
         return "OK";
     }
 }
