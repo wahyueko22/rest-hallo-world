@@ -22,7 +22,8 @@ public class RestControllerWolrd {
 
     @RequestMapping(method = RequestMethod.GET, produces = {MediaType.APPLICATION_JSON_VALUE})
     public String cumi1() {
-
-        return "OKcumi1";
+    System.out.println("a");
+    System.out.println("a");
+    return "OKcumi1";
     }
 }
