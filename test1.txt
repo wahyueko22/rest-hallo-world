@@ -1,6 +1,7 @@
 11111111111111111
+With this option, git cherry-pick will let you edit the commit message prior to committing.
 cumi2
-ggg
+passed 
 kk1 kk2 kk3
 hh1
 5555555
