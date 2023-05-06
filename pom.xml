@@ -11,6 +11,7 @@
 	<groupId>com.hallo</groupId>
 	<artifactId>restworld</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging> <!-- for local -->
 	<name>restworld</name>
 	<description>Demo project for Spring Boot</description>
 
